@@ -4,7 +4,7 @@ const jscon = new JSConfetti();
 water.addEventListener("click", () =>{
     jscon.addConfetti({
         emojis: ['👊'],
-        emojisSize: 80,
-        confettiNumber: 100000,
+        emojisSize: 50,
+        confettiNumber: 100,
     });
 }); 
