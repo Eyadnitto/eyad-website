@@ -1,4 +1,4 @@
-const water = document.querySelector('.hello')
+const water = document.querySelector('.hello') 
 const jscon = new JSConfetti();
 
 water.addEventListener("click", () =>{
